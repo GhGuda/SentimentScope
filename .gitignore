@@ -1,0 +1,19 @@
+# Dataset (reproducible from the tarball, ~100k files)
+aclImdb/
+aclImdb_v1.tar.gz
+
+# Intermediate notebook versions
+SentimentScope_starter*.ipynb
+SentimentScope_FINAL.ipynb
+
+# Intermediate checkpoints
+sentimentscope_model_V3.pt
+sentimentscope_model_final.pt
+sentimentscope_model (1).pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+SentimentScope_SUBMIT.ipynb
